@@ -12,3 +12,9 @@
     height: 100%;
     border: 0;
 }
+
+.markdown-section table {
+    width: 100%;
+    overflow: auto;
+    display: block;
+}
